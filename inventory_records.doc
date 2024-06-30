@@ -1,0 +1,51 @@
+Goods Added-->101,Helmet,20,5100,102000 on - 2024-03-19 16:53:50.298516
+Goods Added-->102,Jacket,20,11000,220000 on - 2024-03-19 16:54:19.311600
+Goods Added-->103,Shoes,20,7000,140000 on - 2024-03-19 16:55:13.260162
+Goods record Updated from-->103,Shoes,20,7000,140000 TO  103,Shoes,20,6000,120000 on - 2024-03-19 16:56:20.526417
+Goods Withdraw -->103 - Shoes - 5 - 6000 - 30000 - on - 2024-03-19 16:57:46.504621-->TM1102-Sushant
+Goods Withdraw -->102 - Jacket - 8 - 11000 - 88000 - on - 2024-03-19 16:58:02.418420-->TM1102-Sushant
+Goods Returned -->102 - Jacket - 3 - 11000 - 33000 - on - 2024-03-19 16:58:42.372781TM1102-Sushant
+Goods Returned -->102 - Jacket - 3 - 11000 - 33000 - on - 2024-03-19 17:00:15.888660TM1102-Sushant
+Goods Returned -->102 - Jacket - 3 - 11000 - 33000 - on - 2024-03-19 18:24:31.569838TM1102-Sushant
+Goods Added-->106,Gloves,20,1500,30000 on - 2024-03-19 18:28:28.546122
+Goods record Deleted-->106,Gloves,20,1500,30000 on - 2024-03-19 18:28:59.393112
+Goods Withdraw -->101 - Helmet - 5 - 5100 - 25500 - on - 2024-03-19 18:30:25.228624-->TM1101-Lokesh
+Goods Withdraw -->103 - Shoes - 5 - 6000 - 30000 - on - 2024-03-20 13:26:01.704784-->TM1101-Lokesh
+Goods Added-->104,Gloves,20,1500,30000 on - 2024-03-20 13:34:18.380843
+Goods record Deleted-->103,Shoes,10,6000,60000 on - 2024-03-20 13:35:18.584517
+Goods record Updated from-->102,Jacket,21,11000,231000 TO  102,Riding Jacket,30,11500,345000 on - 2024-03-20 13:36:30.015674
+Goods Withdraw -->102 - Riding Jacket - 10 - 11500 - 115000 - on - 2024-03-20 13:38:20.434810-->TM1102-Sushant
+Goods Returned -->102 - Riding Jacket - 5 - 11500 - 57500 - on - 2024-03-20 13:39:48.452250TM1102-Sushant
+Goods Added-->103,Knee guard,1500,20,30000 on - 2024-03-29 22:12:56.032571
+Goods record Deleted-->104,Gloves,20,1500,30000 on - 2024-03-29 22:13:53.988138
+Goods Withdraw -->102 - Riding Jacket - 20 - 11500 - 230000 - on - 2024-03-29 22:16:58.072244-->TM1101-Lokesh
+Goods Added-->104,Riding shoes,20,5000,100000 on - 2024-04-03 19:35:55.826316
+Goods record Deleted-->103,Knee guard,1500,20,30000 on - 2024-04-03 19:36:40.073861
+Goods record Updated from-->102,Riding Jacket,5,11500,57500 TO  102,Jacket,30,10000,300000 on - 2024-04-03 19:37:51.567888
+Goods Withdraw -->102 - Jacket - 10 - 10000 - 100000 - on - 2024-04-03 19:42:27.766573-->TM1103-Saurabh
+Goods Added-->103,Knee Guard,20,1500,30000 on - 2024-04-05 14:01:37.725875
+Goods Added-->105,Gloves,30,1000,30000 on - 2024-04-05 14:02:12.342942
+Goods record Deleted-->105,Gloves,30,1000,30000 on - 2024-04-05 14:03:01.867382
+Goods record Updated from-->102,Jacket,20,10000,200000 TO  102,Jacket,30,11000,330000 on - 2024-04-05 14:11:17.354053
+Goods Withdraw -->101 - Helmet - 2 - 5100 - 10200 - on - 2024-04-05 14:17:44.914930-->TM1103-Rushi
+Goods Withdraw -->102 - Jacket - 5 - 11000 - 55000 - on - 2024-04-05 20:53:31.021341-->TM1103-Rushi
+Goods Withdraw -->103 - Knee Guard - 5 - 1500 - 7500 - on - 2024-04-05 20:53:53.753143-->TM1103-Rushi
+Goods Returned -->102 - Jacket - 3 - 11000 - 33000 - on - 2024-04-06 16:03:11.871838TM1103-Rushi
+Goods Returned -->103 - Knee Guard - 2 - 1500 - 3000 - on - 2024-04-24 11:04:53.754468TM1102-Lokesh
+Goods Added-->110,Bag pack,30,3500,105000 on - 2024-04-24 14:38:51.491150
+Goods record Deleted-->110,Bag pack,30,3500,105000 on - 2024-04-24 14:39:26.608755
+Goods record Updated from-->102,Jacket,28,11000,308000 TO  102,Riding Jacket,30,10000,300000 on - 2024-04-24 14:40:16.278015
+Goods Withdraw -->102 - Riding Jacket - 7 - 10000 - 70000 - on - 2024-04-24 14:43:52.421525-->TM1104-Lokesh
+Goods Returned -->102 - Riding Jacket - 3 - 10000 - 30000 - on - 2024-04-24 14:44:40.928743TM1104-Lokesh
+Goods Added-->105,knee guard,32,12,384 on - 2024-04-24 16:07:13.294200
+Goods record Deleted-->103,Knee Guard,17,1500,25500 on - 2024-04-24 16:11:44.287170
+Goods record Deleted-->105,knee guard,32,12,384 on - 2024-04-24 16:11:44.294366
+Goods record Updated from-->101,Helmet,13,5100,66300 TO  101,Riding helmet,20,1000,20000 on - 2024-04-24 16:14:46.071093
+Goods Withdraw -->101 - Riding helmet - 10 - 1000 - 10000 - on - 2024-04-24 16:20:15.823442-->TM1103-Toshi mam
+Goods Returned -->101 - Riding helmet - 5 - 1000 - 5000 - on - 2024-04-24 16:24:02.518765TM1103-Toshi mam
+Goods Returned -->101 - Riding helmet - 5 - 1000 - 5000 - on - 2024-04-24 16:28:12.022835TM1103-Toshi mam
+Goods Added-->103,Gloves,20,999,19980 on - 2024-06-08 19:09:39.136334
+Goods record Deleted-->102,Riding Jacket,26,10000,260000 on - 2024-06-08 19:14:16.116170
+Goods record Updated from-->103,Gloves,20,999,19980 TO  103,Riding Gloves,25,1200,30000 on - 2024-06-08 19:15:15.419242
+Goods Withdraw -->104 - Riding shoes - 10 - 5000 - 50000 - on - 2024-06-08 19:30:14.593942-->TM1102-Sushant
+Goods Returned -->104 - Riding shoes - 5 - 5000 - 25000 - on - 2024-06-08 19:32:21.735066TM1102-Sushant

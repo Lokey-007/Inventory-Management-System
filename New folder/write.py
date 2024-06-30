@@ -1,0 +1,1 @@
+open("Goods_record.doc","w")
